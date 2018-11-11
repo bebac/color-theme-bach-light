@@ -7,7 +7,7 @@
 		"editorLineNumber.foreground":"#bbbbbb",
 		"editorIndentGuide.background":"#e0e0e0",
 		"terminal.background": "#252525",
-		"terminal.foreground":"#c0c0c0",
+		"terminal.foreground":"#b4b4b4",
 	},
 	"tokenColors": [
 		{
