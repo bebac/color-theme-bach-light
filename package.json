@@ -1,0 +1,22 @@
+{
+    "name": "color-theme-bbach",
+    "displayName": "color-theme-bbach",
+    "description": "My color theme",
+    "version": "0.0.1",
+    "publisher": "bbach",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bach Light",
+                "uiTheme": "vs",
+                "path": "./themes/bach-light-color-theme.json"
+            }
+        ]
+    }
+}
