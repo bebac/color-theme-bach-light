@@ -48,11 +48,12 @@
 		{
 			"scope": [
 				"punctuation.definition.directive",
+				"entity.name.function.preprocessor",
 				"keyword.control.directive"
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#5fa3b8"
+				"foreground": "#0188a0"
 			}
 		},
 		{
@@ -85,7 +86,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#003079"
+				"foreground": "#0044aa"
 			}
 		},
 		{
@@ -95,7 +96,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#0044aa"
+				"foreground": "#003079"
 			}
 		},
 		{
@@ -148,7 +149,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#8a1c00"
+				"foreground": "#6e653b"
 			}
 		},
 		{
@@ -169,11 +170,12 @@
 			"name": "Numbers, Characters",
 			"scope": [
 				"constant.numeric",
+				"constant.language",
 				"constant.character",
 				"constant"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#c26e00"
 			}
 		},
 		{
@@ -190,14 +192,14 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#bb7000"
+				"foreground": "#94ca00"
 			}
 		},
 		{
 			"name": "Strings: Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#5d6e1d"
+				"foreground": "#0C6700"
 			}
 		},
 		{
