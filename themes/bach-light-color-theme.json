@@ -8,6 +8,16 @@
 		"editorIndentGuide.background":"#e0e0e0",
 		"terminal.background": "#252525",
 		"terminal.foreground":"#b4b4b4",
+		"terminal.ansiBlue": "#0077ff",
+		"terminal.ansiBrightBlue": "#7e9fcf",
+		"terminal.ansiRed": "#925252",
+		"terminal.ansiBrightRed": "#b66767",
+		"terminal.ansiGreen": "#729268ls",
+		"terminal.ansiBrightGreen": "#799b71",
+		"terminal.ansiBrightYellow": "#ffe600",
+		"terminal.ansiYellow": "#d4c85a",
+		"terminal.ansiCyan": "#65e8ff",
+		"terminal.ansiBrightCyan": "#46d0e9"
 	},
 	"tokenColors": [
 		{
